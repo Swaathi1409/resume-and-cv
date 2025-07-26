@@ -8,6 +8,11 @@ This repository contains two professional document formats:
 - **Resume** (`resume.html`) - Concise format for job applications
 - **CV** (`cv.html`) - Comprehensive format for academic/detailed applications
 
+## Deployed Link:
+
+- **Resume** : https://resume-and-cv-gqzk.vercel.app/
+- **CV** : https://resume-and-cv-beta.vercel.app/
+
 ## Features
 
 - **Responsive Design** - Works on all devices and screen sizes
