@@ -58,6 +58,25 @@ This repository contains two professional document formats:
 3. Customize content as needed
 4. Print or save as PDF for distribution
 
+## Sample Screenshots
+
+### Resume
+
+<img width="660" height="624" alt="image" src="https://github.com/user-attachments/assets/f4f44567-0560-4c5e-af82-bb7471633d21" />
+
+<img width="586" height="625" alt="image" src="https://github.com/user-attachments/assets/8f056543-0a81-4b54-b11f-cf477f2fdb4f" />
+
+<img width="582" height="557" alt="image" src="https://github.com/user-attachments/assets/9327e0c3-51a7-4265-986c-6c5109dfc8a7" />
+
+### CV
+
+<img width="612" height="559" alt="image" src="https://github.com/user-attachments/assets/fea08c81-e326-4f3f-94a3-0ce1af760e02" />
+
+<img width="594" height="624" alt="image" src="https://github.com/user-attachments/assets/af3f6041-c777-4fe9-9405-80d3e9290dd3" />
+
+<img width="594" height="605" alt="image" src="https://github.com/user-attachments/assets/d7f50ffd-c4ad-4c51-9904-78fac28b0da5" />
+
+
 ## Customization
 
 - Edit HTML content in respective files
